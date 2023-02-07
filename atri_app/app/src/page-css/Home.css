@@ -1,0 +1,215 @@
+.p-Home.Flex6 {
+display: flex;
+padding-top: ;
+margin-top: 1px;
+}
+.p-Home.Flex7 {
+display: flex;
+}
+.p-Home.Flex9 {
+display: flex;
+}
+.p-Home.Flex10 {
+display: flex;
+padding-left: 200px;
+justify-content: flex-start;
+flex-direction: row;
+}
+.p-Home.Div3 {
+padding-left: 20px;
+}
+.p-Home.Flex13 {
+display: flex;
+flex-direction: row;
+}
+.p-Home.Flex14 {
+display: flex;
+flex-direction: column;
+color: #f6f1f1;
+}
+.p-Home.Flex15 {
+display: flex;
+padding-left: 100px;
+justify-content: flex-start;
+flex-direction: row;
+padding-top: 20px;
+align-items: stretch;
+}
+.p-Home.Div4 {
+padding-left: 20px;
+}
+.p-Home.Div8 {
+width: 400px;
+height: 400px;
+padding-top: ;
+background-color: #fbfbfb;
+}
+.p-Home.Flex21 {
+display: flex;
+flex-direction: column;
+padding-top: 152px;
+}
+.p-Home.Flex22 {
+display: flex;
+justify-content: space-around;
+padding-left: 200px;
+padding-right: 200px;
+padding-top: 20px;
+}
+.p-Home.Image8 {
+width: 350px;
+border-radius: 20px;
+left: 700px;
+position: relative;
+bottom: 490px;
+}
+.p-Home.Image9 {
+padding-left: 100px;
+width: 200px;
+height: auto;
+}
+.p-Home.TextBox9 {
+padding-left: 90px;
+padding-top: 9px;
+font-size: 18px;
+color: #696969;
+}
+.p-Home.TextBox10 {
+margin-left: 0px;
+padding-left: 20px;
+padding-top: 9px;
+font-size: 18px;
+color: #696969;
+}
+.p-Home.TextBox11 {
+color: #696969;
+padding-left: 20px;
+padding-top: 9px;
+font-size: 18px;
+}
+.p-Home.TextBox12 {
+color: #696969;
+padding-left: 20px;
+padding-top: 9px;
+font-size: 18px;
+}
+.p-Home.TextBox13 {
+padding-left: 20px;
+padding-top: 9px;
+color: #696969;
+font-size: 18px;
+}
+.p-Home.Button3 {
+color: #000000;
+background-color: #ececec;
+padding-top: 8px;
+padding-left: 25px;
+padding-bottom: 8px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 100px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.Button6 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 25px;
+padding-bottom: 8px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 100px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ffffff;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.TextBox19 {
+padding-left: 100px;
+padding-top: 0px;
+font-size: 50px;
+color: #FF7629;
+}
+.p-Home.TextBox20 {
+font-size: 18px;
+color: #757575;
+width: 50%;
+padding-left: 100px;
+padding-top: 30px;
+}
+.p-Home.TextBox18 {
+font-size: 50px;
+text-align: left;
+padding-left: 99px;
+padding-top: 100px;
+color: #010101;
+}
+.p-Home.Button8 {
+color: #ffffff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 25px;
+padding-bottom: 8px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 100px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ffffff;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.Button7 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 8px;
+padding-left: 25px;
+padding-bottom: 8px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 100px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.Div9 {
+margin-top: 70px;
+background-color: #FF7629;
+width: 310px;
+height: 410px;
+}
+.p-Home.TextBox22 {
+text-align: center;
+font-size: 21px;
+}
+.p-Home.Image4 {
+;
+}
+.p-Home.Image5 {
+;
+}
+.p-Home.Image6 {
+;
+}
+.p-Home.Image7 {
+;
+}
